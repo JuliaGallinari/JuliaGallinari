@@ -6,3 +6,4 @@ Estou aprendendo Phyton, JavaScript, Banco de Dados e, até mesmo, me aventurand
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaGallinari&show_icons=true&bg_color=00000000)
 
 
+
