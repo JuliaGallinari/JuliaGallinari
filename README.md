@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá! 
+Sou Júlia Gallinari, estudante de Analise e Desenvolvimento de Ssitemas. Atualmente, trabalho fora da área de tecnologia, no setor de PPCP; porém estou procurando reacolocação na área de tecnologia. 
+Estou aprendendo Phyton, JavaScript, Banco de Dados e, até mesmo, me aventurando um pouco em VBA nos momentos livre.
